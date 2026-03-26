@@ -1,7 +1,7 @@
 # Site settings
-title: "NewsHub - Breaking News & Analysis"
-description: "Your trusted source for breaking news, in-depth analysis, and expert commentary on technology, business, and world events."
-keywords: "news, technology, business, analysis, breaking news"
+title: "机场节点 | ClashMeta 免费订阅 | 高速稳定机场推荐"
+description: "提供最新 ClashMeta 免费节点、Clash 代理节点订阅链接，高速稳定机场推荐，以及 ClashMeta 使用教程。"
+keywords: "clashmeta, clash meta, clashmeta配置, clashmeta节点, clash代理节点, 机场节点, 节点推荐, clash免费订阅, clash免费节点, 免费机场, 机场试用, clashmeta免费节点每日更新, clashmeta免费订阅链接, clash免费节点订阅地址, 免费机场节点每日更新, clash代理节点免费分享, clashmeta节点免费获取方法, 最新clash免费订阅链接, 免费机场试用一天节点推荐, 机场节点推荐2026稳定高速, clashmeta机场哪个好用, 便宜机场节点推荐, 高速稳定机场推荐支持clashmeta, 支持clashmeta的机场有哪些, 最便宜的clash节点订阅, 机场试用后怎么购买节点, clashmeta节点购买平台推荐, clashmeta怎么用新手教程, clashmeta配置文件怎么导入, clashmeta订阅链接怎么添加, clash代理节点怎么配置, clashmeta节点失效怎么办, clashmeta更新订阅失败解决方法, clashmeta和clash有什么区别, clashmeta免费节点安全吗, 免费机场节点为什么会失效, clashmeta订阅链接多久更新, 机场试用节点靠谱吗, clashmeta节点为什么很慢"
 author: "NewsHub Editorial Team"
 author_bio: "A team of passionate journalists and analysts dedicated to delivering accurate, timely, and insightful news coverage."
 logo: "/assets/images/default-og.png"
@@ -25,7 +25,7 @@ social:
 
 # IndexNow
 indexnow:
-  key: "YOUR_INDEXNOW_API_KEY"
+  key: "d8715e2e84574aa785a5ad5aea7c4b0d"
   host: "jichangmeta.github.io"
 
 # Build settings
