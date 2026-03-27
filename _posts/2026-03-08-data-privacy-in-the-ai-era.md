@@ -5,7 +5,7 @@ description: "As AI becomes more pervasive, concerns about data privacy are grow
 author: "David Lee"
 categories: [technology, business]
 tags: [data privacy, security, AI, machine learning, GDPR]
-image: "/assets/images/post-5.jpg"
+image: "/assets/images/post-placeholder.png"
 ---
 
 Artificial intelligence is powered by data. The more data an AI model has, the more accurate and capable it becomes. This insatiable appetite for data has created a new set of challenges for privacy. As we integrate AI into more aspects of our lives, from personalized recommendations to medical diagnoses, it is crucial to understand the risks and how to protect our personal information.

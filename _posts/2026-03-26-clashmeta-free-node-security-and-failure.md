@@ -6,7 +6,7 @@ keywords: "clashmeta免费节点安全吗, 免费机场节点为什么会失效,
 categories: ["免费节点", "安全"]
 tags: ["ClashMeta", "免费节点", "安全", "失效", "风险", "疑问"]
 author: "Manus AI"
-image: "/assets/images/post-placeholder-4.jpg"
+image: "/assets/images/post-placeholder.png"
 robots: "index, follow"
 ---
 

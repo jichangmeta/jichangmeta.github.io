@@ -5,7 +5,7 @@ description: "Explore the key trends shaping the global business landscape in 20
 author: "John Smith"
 categories: [business]
 tags: [globalization, supply chain, remote work, digital currency, economics]
-image: "/assets/images/post-3.jpg"
+image: "/assets/images/post-placeholder.png"
 ---
 
 The world of business is in a constant state of flux, but recent years have accelerated the pace of change to an unprecedented degree. As we move through 2026, several key trends are defining the new era of global business. Companies that understand and adapt to these shifts will be best positioned for success.

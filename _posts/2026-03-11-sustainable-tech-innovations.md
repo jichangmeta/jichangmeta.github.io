@@ -5,7 +5,7 @@ description: "From green energy solutions to circular economy models, discover t
 author: "Jane Doe"
 categories: [technology, environment]
 tags: [sustainability, green tech, innovation, circular economy, renewable energy]
-image: "/assets/images/post-2.jpg"
+image: "/assets/images/post-placeholder.png"
 featured: true
 ---
 

@@ -5,7 +5,7 @@ description: "Two years after the initial surge of hype, where does the metavers
 author: "Emily Chen"
 categories: [technology]
 tags: [metaverse, virtual reality, augmented reality, web3, gaming]
-image: "/assets/images/post-4.jpg"
+image: "/assets/images/post-placeholder.png"
 ---
 
 The term "metaverse" exploded into the public consciousness a few years ago, promising a future of interconnected, persistent virtual worlds. Billions were invested, and every major tech company seemed to have a metaverse strategy. Now, in 2026, it's time for a reality check. What has been achieved, and what remains a distant dream?

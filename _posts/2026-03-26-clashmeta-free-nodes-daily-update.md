@@ -6,7 +6,7 @@ keywords: "clashmeta免费节点每日更新, clashmeta免费订阅链接2026, c
 categories: ["免费节点", "ClashMeta"]
 tags: ["ClashMeta", "免费节点", "订阅链接", "每日更新", "机场"]
 author: "Manus AI"
-image: "/assets/images/post-placeholder-1.jpg"
+image: "/assets/images/post-placeholder.png"
 robots: "index, follow"
 ---
 

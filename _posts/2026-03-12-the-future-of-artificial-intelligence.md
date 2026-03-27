@@ -5,7 +5,7 @@ description: "Explore the most important AI trends shaping our world, from gener
 author: "Alex Johnson"
 categories: [technology]
 tags: [artificial intelligence, machine learning, AI ethics, generative AI, AGI]
-image: "/assets/images/post-1.jpg"
+image: "/assets/images/post-placeholder.png"
 featured: true
 read_time: 8
 ---

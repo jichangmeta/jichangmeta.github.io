@@ -6,7 +6,7 @@ keywords: "clashmeta怎么用新手教程, clashmeta配置文件怎么导入, cl
 categories: ["ClashMeta", "教程"]
 tags: ["ClashMeta", "新手教程", "配置", "订阅", "代理", "入门"]
 author: "Manus AI"
-image: "/assets/images/post-placeholder-3.jpg"
+image: "/assets/images/post-placeholder.png"
 robots: "index, follow"
 ---
 

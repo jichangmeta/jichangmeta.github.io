@@ -6,7 +6,7 @@ keywords: "最便宜的clash节点订阅, 机场试用后怎么购买节点, cla
 categories: ["机场推荐", "购买指南"]
 tags: ["Clash", "节点订阅", "购买", "便宜", "机场", "试用", "推荐"]
 author: "Manus AI"
-image: "/assets/images/post-placeholder-5.jpg"
+image: "/assets/images/post-placeholder.png"
 robots: "index, follow"
 ---
 
